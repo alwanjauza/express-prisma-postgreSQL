@@ -17,6 +17,7 @@ This project is a basic implementation of an e-commerce system with CRUD functio
 Before running this project, ensure you have the following installed:
 
 - Node.js
+- Prisma
 - PostgreSQL
 - npm or yarn
 
