@@ -1,6 +1,6 @@
-# E-Commerce Project
+# Course CRUD
 
-This project is a basic implementation of an e-commerce system with CRUD functionality for managing users, products, categories, orders, and more. It is built using ExpressJS, Prisma, and PostgreSQL with a layered architecture.
+This projec only for making a basic CRUD using express, prisma, and PostgreSQL.
 
 ## Prerequisites
 
